@@ -11,7 +11,7 @@ Step#3: Finally, we need to write the code snippet to predict the Selling Price 
 
 
 Conclusion:
-The predicted price for the home with data :
+The predicted price for the house with data :
 HouseSize = 2983
 LotSize = 9365
 Bedrooms = 5
